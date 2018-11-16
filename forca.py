@@ -1,7 +1,9 @@
 import random
 
-print("**********************************")
-print("Bem vindo ao jogo da Forca!")
-print("**********************************")
-
-print("Fim do jogo.")
+def jogar():
+    
+    print("**********************************")
+    print("Bem vindo ao jogo da Forca!")
+    print("**********************************")
+    
+    print("Fim do jogo.")
